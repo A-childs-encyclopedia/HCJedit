@@ -1,30 +1,30 @@
 Welcome to HCJedit! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
 
-Brackets is a modern open-source code editor for HTML, CSS
+HCJedit is a modern open-source code editor for HTML, CSS
 and JavaScript that's *built* in HTML, CSS and JavaScript. 
 
-What makes Brackets different from other web code editors?
+What makes HCJedit different from other web code editors?
 
 * **Tools shouldn't get in your way.** Instead of cluttering up your coding
-environment with lots of panels and icons, the Quick Edit UI in Brackets puts 
+environment with lots of panels and icons, the Quick Edit UI in HCJedit puts 
 context-specific code and tools inline.
-* **Brackets is in sync with your browser.** With Live Preview, Brackets
+* **HCJedit is in sync with your browser.** With Live Preview, Brackets
 works directly with your browser to push code edits instantly and jump
 back and forth between your real source code and the browser view.
-* **Do it yourself.** Because Brackets is open source, and built with HTML, CSS
+* **Do it yourself.** Because HCJedit is open source, and built with HTML, CSS
 and JavaScript, you can [help build](https://github.com/adobe/brackets/blob/master/CONTRIBUTING.md) the best code editor for the web.
 
-Brackets may have reached version 1, but we're not stopping there. We have many feature ideas on our
+HCJedit may have reached version 1, but we're not stopping there. We have many feature ideas on our
 [trello board](http://bit.ly/BracketsTrelloBoard) that we're anxious to add and other
-innovative web development workflows that we're planning to build into Brackets. 
-So take Brackets out for a spin and let us know how we can make it your favorite editor. 
+innovative web development workflows that we're planning to build into HCJedit. 
+So take HCJedit out for a spin and let us know how we can make it your favorite editor. 
 
 You can see some 
-[screenshots of Brackets](https://github.com/adobe/brackets/wiki/Brackets-Screenshots)
+[screenshots of HCJedit](https://github.com/adobe/brackets/wiki/Brackets-Screenshots)
 on the wiki, [intro videos](http://www.youtube.com/user/CodeBrackets) on YouTube, and news on the [Brackets blog](http://blog.brackets.io/).
 
-How to install and run Brackets
+How to install and run HCJedit
 -------------------------------
 #### Download
 
@@ -32,10 +32,10 @@ Installers for the latest stable build for Mac, Windows and Linux (Debian/Ubuntu
 
 #### Usage
 
-By default, Brackets opens a folder containing some simple "Getting Started" content.
+By default, HCJedit opens a folder containing some simple "Getting Started" content.
 You can choose a different folder to edit using *File > Open Folder*.
 
-Most of Brackets should be pretty self-explanatory, but for information on how
+Most of HCJedit should be pretty self-explanatory, but for information on how
 to use its unique features, like Quick Edit and Live Preview, please read
 [How to Use Brackets](http://github.com/adobe/brackets/wiki/How-to-Use-Brackets). 
 Also, see the [release notes](http://github.com/adobe/brackets/wiki/Release-Notes)
